@@ -8,10 +8,10 @@ The concept behind this site for a fictional coffee company is to introduce this
 The goal for this project is to effectively market this brand and its products to create consumer awareness. 
 
 ## Inspiration
-https://publicbikes.com/collections/bikes
+https://publicbikes.com/collections/bikes  
 http://ledouxville.com/
 
 ## Comparable inspiration
-https://herkimercoffee.com/
-https://www.stumptowncoffee.com/
+https://herkimercoffee.com/  
+https://www.stumptowncoffee.com/  
 https://www.starbucks.com/
