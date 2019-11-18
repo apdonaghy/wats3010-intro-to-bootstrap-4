@@ -8,3 +8,20 @@
 .footer-item-flex{
     flex: 0 1 auto;
 }
+
+[title~=brand] {
+    color:black;
+}
+
+*{
+    transition:all 0.3s ease;
+}
+
+.fade-out-1
+{
+        opacity:1;
+}
+.fade-out-1:hover
+{
+        opacity: 0.5;;
+}
