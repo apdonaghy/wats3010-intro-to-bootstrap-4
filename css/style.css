@@ -13,6 +13,10 @@
     color:black;
 }
 
+[title~=brand]:hover {
+    color:#FF624C;
+}
+
 *{
     transition:all 0.3s ease;
 }
